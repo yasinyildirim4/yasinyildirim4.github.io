@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://yasinyildirim4.github.io//sitemap.xml
